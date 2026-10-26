@@ -17,4 +17,5 @@ Teste unitario do Fork
 _0_
 
 curso: Git e Github :sunglasses:
-trabalho de farmacos de IA :rose:
+
+trabalho de farmacos de IA :cat:
